@@ -9,7 +9,7 @@
 </p>
 </br>
 
-- 🔭 I’m currently working on [Hospital-Management_](https://github.com/Yaseen0725/Hospital-Management)
+- 🔭 I’m currently working on [Vaccination Booking System](https://github.com/Yaseen0725/Vaccination-Booking-System)
 
 - 🌱 I’m currently learning Springboot
 
